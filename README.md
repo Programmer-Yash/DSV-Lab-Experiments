@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="assets/header.svg" alt="DSV Lab Experiments — NumPy, Pandas, data wrangling" width="100%"/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -198,9 +195,6 @@ DSV-Lab-Experiments/
 <br/>
 
 <div align="center">
-
-<img src="assets/footer.svg" alt="keep exploring data, one cell at a time" width="100%"/>
-
 <br/>
 
 Made by **[Yash Upadhyay](https://github.com/Programmer-Yash)**
