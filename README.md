@@ -113,12 +113,6 @@ employee_df['Office'] = office_names      # rows 1 and 3 get NaN
 
 The single most useful idea across these notebooks, since it shows up in Assignments 2 and 4, is the `axis` argument. **`axis=1` runs across the columns and gives one result per row; `axis=0` runs down the rows and gives one result per column.**
 
-<div align="center">
-<img src="assets/axis.svg" alt="Animation of np.sum with axis=1 then axis=0" width="80%"/>
-</div>
-
-<br/>
-
 ## ✦ Cheat sheet from the labs
 
 | Idea | Snippet | Why it matters |
