@@ -20,20 +20,6 @@
 
 Four Jupyter notebooks of solved lab assignments. Each one is a self-contained practice sheet that you can read top to bottom or run cell by cell. From Assignment 3 onward they are graded in tiers, **Section A (Easy) → B (Medium) → C (Hard)**, so the difficulty ramps up inside every file.
 
-<div align="center">
-<img src="assets/terminal.svg" alt="Animated notebook computing student averages with NumPy" width="100%"/>
-</div>
-
-<br/>
-
-## ✦ Learning path
-
-<div align="center">
-<img src="assets/learning-path.svg" alt="Learning path across the four assignments" width="100%"/>
-</div>
-
-<br/>
-
 | # | Notebook | Focus | Open |
 |:-:|:--|:--|:-:|
 | **02** | [`Assignment2.ipynb`](Assignment2.ipynb) | Python fundamentals (types, f-strings, `is` vs `==`) and a long **NumPy practice sheet** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Programmer-Yash/DSV-Lab-Experiments/blob/main/Assignment2.ipynb) |
